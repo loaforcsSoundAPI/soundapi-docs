@@ -27,7 +27,7 @@ Files can easily be converted to other formats using an audio editor like [Audac
 Be sure to place Sound Files in the `sounds` folder you previously created!
 
 
-[A Match String](/soundpack-api/guide/match-strings) can be found using SoundAPI itself or by decompiling the game, but doing both is recommended!
+[A Match String](/soundpack-tutorials/guide/match-strings) can be found using SoundAPI itself or by decompiling the game, but doing both is recommended!
 
 # Multiple Matches and Sounds
 

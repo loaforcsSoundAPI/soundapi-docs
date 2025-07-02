@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { defaultConditions } from './default-conditions'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -42,7 +43,10 @@ export default defineConfig({
       {
         text: 'Sound-Pack API',
         items: [
-          { text: 'Mappings', link: '/soundpack-api/mappings' }
+          { text: 'Mappings', link: '/soundpack-api/mappings' },
+          { text: 'Value Range', link: '/soundpack-api/value-range' },
+
+          defaultConditions
         ]
       },
 

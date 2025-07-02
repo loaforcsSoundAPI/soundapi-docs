@@ -33,7 +33,8 @@ export default defineConfig({
               { text: 'Config', link: '/soundpack-tutorials/advanced/config' },
               { text: 'Update Every Frame', link: '/soundpack-tutorials/advanced/update-every-frame' }
             ]
-          }
+          },
+          { text: 'Migrating from v1', link: '/soundpack-tutorials/migrating-from-v1' }
         ]
       },
 

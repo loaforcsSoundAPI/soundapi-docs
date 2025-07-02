@@ -34,7 +34,8 @@ export default defineConfig({
               { text: 'Update Every Frame', link: '/soundpack-tutorials/advanced/update-every-frame' }
             ]
           },
-          { text: 'Migrating from v1', link: '/soundpack-tutorials/migrating-from-v1' }
+          { text: 'Migrating from v1', link: '/soundpack-tutorials/migrating-from-v1' },
+          { text: 'Migrating from CustomSounds', link: '/soundpack-tutorials/migrating-from-customsounds' }
         ]
       },
 

@@ -8,7 +8,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Sound-Pack Tutorial', link: '/soundpack-tutorials/guide/getting-started' }
+      { text: 'Sound-Pack Tutorial', link: '/soundpack-tutorials/guide/getting-started' },
+      { text: 'C# API', link: '/csharp-api/csharp-api' }
     ],
 
     sidebar: [
@@ -40,6 +41,15 @@ export default defineConfig({
         text: 'Sound-Pack API',
         items: [
           { text: 'Mappings', link: '/soundpack-api/mappings' }
+        ]
+      },
+
+      {
+        text: 'C# API',
+        items: [
+          { text: 'Introduction', link: '/csharp-api/csharp-api' },
+          { text: 'Custom Conditions', link: '/csharp-api/conditions' },
+          { text: 'Custom Report Sections', link: '/csharp-api/report-sections' }
         ]
       }
     ],

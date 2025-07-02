@@ -19,5 +19,9 @@ features:
     details: View everything you can do with Sound-packs!
     link: /soundpack-api/soundpack-api
     linkText: Sound-Pack Documentation
+  - title: View C# API
+    details: View (unstable) C# API!
+    link: /csharp-api/csharp-api
+    linkText: C# Documentation
 ---
 

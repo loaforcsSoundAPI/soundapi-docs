@@ -9,6 +9,12 @@ hero:
     - theme: brand
       text: Sound-Pack Guide
       link: /soundpack-tutorials/guide/getting-started
+    - theme: alt
+      text: C# API
+      link: /csharp-api/csharp-api
+  image:
+    src: /logo.svg
+    alt: loaforcsSoundAPI logo
 
 features:
   - title: Make a Sound-Pack

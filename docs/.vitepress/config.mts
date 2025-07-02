@@ -3,8 +3,8 @@ import { defaultConditions } from './default-conditions'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "loaforcsSoundAPI",
-  description: "A VitePress Site",
+  title: "loaforcsSoundAPI Documentation",
+  description: "Documentation for loaforcsSoundAPI",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -12,6 +12,9 @@ export default defineConfig({
       { text: 'Sound-Pack Tutorial', link: '/soundpack-tutorials/guide/getting-started' },
       { text: 'C# API', link: '/csharp-api/csharp-api' }
     ],
+
+    siteTitle: 'loaforcsSoundAPI',
+    logo: '/logo.svg',  
 
     sidebar: [
       {
@@ -43,6 +46,7 @@ export default defineConfig({
       {
         text: 'Sound-Pack API',
         items: [
+          { text: 'Introduction', link: '/soundpack-api/soundpack-api' },
           { text: 'Mappings', link: '/soundpack-api/mappings' },
           { text: 'Value Range', link: '/soundpack-api/value-range' },
 
@@ -61,7 +65,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/loaforcsSoundAPI/loaforcsSoundAPI' }
     ]
   }
 })

@@ -5,7 +5,7 @@
 > 
 > If you end up struggling to follow this guide, there's no shame in downloading someone else's mod to learn from it
 
-It's recommended to look at [Recommended Tools](/soundpack-tutorials/recommended-tools) first, to see what you might have to download.
+It's recommended to look at [Recommended Tools](/soundpack-tutorials/recommended-tools) first, to see what you might have to download. You may also find the [Example Sound-Packs](https://github.com/loaforcsSoundAPI/loaforcsSoundAPI.Examples) useful.
 
 ## Folder Structure
 The following folders and files need to be created, and then placed into the `Plugins` folder created by BepInEx. 

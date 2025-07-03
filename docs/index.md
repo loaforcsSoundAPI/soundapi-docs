@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "loaforcsSoundAPI"
-  tagline: Documentation for loaforcsSoundAPI
+  tagline: A general use library to replace sounds in Unity games
   actions:
     - theme: brand
       text: Sound-Pack Guide

@@ -8,7 +8,7 @@ Checks the status of the current apparatus, resets when leaving a moon.
 ### Properties
 | Name | Type | Default |
 |--------|-------|---------|
-| Value | [StateType](#statetype) | pulled |
+| Value | [StateType](#statetype) | `pulled` |
 
 ### Usage
 ```json

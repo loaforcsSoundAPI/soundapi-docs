@@ -4,7 +4,7 @@ Checks if the current dungeon has power. This includes players flipping the brea
 ### Properties
 | Name | Type | Default |
 |--------|-------|---------|
-| Value | Boolean | true |
+| Value | Boolean | `true` |
 
 ### Usage
 ```json

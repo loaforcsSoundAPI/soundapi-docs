@@ -4,7 +4,7 @@ Check if the current player is alone. I think this is the same conditions for sa
 ### Properties
 | Name | Type | Default |
 |--------|-------|---------|
-| Value | Boolean | true |
+| Value | Boolean | `true` |
 
 ### Usage
 ```json

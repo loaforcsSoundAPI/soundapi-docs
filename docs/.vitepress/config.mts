@@ -16,7 +16,7 @@ export default defineConfig({
         text: 'Games', items: [
           {
             text: 'Lethal Company',
-            link: '/games/lethal-company/index'
+            link: '/games/lethal-company/introduction'
           }
         ]
       }

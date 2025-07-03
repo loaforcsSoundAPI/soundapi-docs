@@ -11,6 +11,6 @@ Checks the current player's audio reverb settings. You can get more information 
 ```json
 {
     "type": "LethalCompany:player:audio_reverb",
-    "hasecho": "true"
+    "has_echo": "true"
 }
 ```

@@ -14,6 +14,6 @@ Be careful when using with `and`, `nand`, `or` or `nor` as these have performanc
 ```json
 {
     "type": "counter",
-    "resetsat": "5"
+    "resets_at": "5"
 }
 ```

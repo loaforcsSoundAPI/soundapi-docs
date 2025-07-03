@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { defaultConditions } from './default-conditions'
+import { lethalCompanyConditions } from './lethal-company'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -78,7 +79,9 @@ export default defineConfig({
           text: 'Lethal Company',
           items: [
             { text: 'Introduction', link: '/games/lethal-company/index' },
-            { text: 'Master Audio List', link: '/games/lethal-company/master-audio-list' }
+            { text: 'Master Audio List', link: '/games/lethal-company/master-audio-list' },
+            
+            lethalCompanyConditions
           ]
         }
       ]

@@ -78,7 +78,7 @@ export default defineConfig({
         {
           text: 'Lethal Company',
           items: [
-            { text: 'Introduction', link: '/games/lethal-company/index' },
+            { text: 'Introduction', link: '/games/lethal-company/introduction' },
             { text: 'Master Audio List', link: '/games/lethal-company/master-audio-list' },
             
             lethalCompanyConditions

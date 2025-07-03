@@ -1,6 +1,6 @@
 ## Ship State Condition
 Checks the current state of the ship.
-If you want to check the specific moon the ship has landed on use the [Moon Name Condition](/games/lethal-company/conditions/MoonNameCondition).
+If you want to check the specific moon the ship has landed on use the [Moon Name Condition](/games/lethal-company/conditions/moon/MoonNameCondition).
 
 ### ShipStateType
 - `in_orbit`: In orbit

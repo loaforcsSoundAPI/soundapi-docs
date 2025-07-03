@@ -31,3 +31,12 @@ features:
     linkText: C# Documentation
 ---
 
+## Other Links
+- [Main Mod Github](https://github.com/loaforcsSoundAPI/loaforcsSoundAPI/)
+- [Latest Release](https://github.com/loaforcsSoundAPI/loaforcsSoundAPI/releases/latest)
+- [Example Sound-packs](https://github.com/loaforcsSoundAPI/loaforcsSoundAPI.Examples)
+
+### Binding Mods
+- Lethal Company: [Thunderstore](https://thunderstore.io/c/lethal-company/p/loaforc/loaforcsSoundAPI_LethalCompany/) and [Github](https://github.com/loaforcsSoundAPI/loaforcsSoundAPI.LethalCompany)
+- REPO: [Thunderstore](https://thunderstore.io/c/repo/p/loaforc/loaforcsSoundAPI_REPO/) and [Github](https://github.com/loaforcsSoundAPI/loaforcsSoundAPI.REPO) <br>
+  -> REPO does not have specific conditions, instead the binding mod fixes issues in the vanilla game that cause SoundAPI to not behave as expected.

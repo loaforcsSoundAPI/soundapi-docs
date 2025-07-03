@@ -65,7 +65,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/loaforcsSoundAPI/loaforcsSoundAPI' }
+      { icon: 'github', link: 'https://github.com/loaforcsSoundAPI' }
     ]
   }
 })

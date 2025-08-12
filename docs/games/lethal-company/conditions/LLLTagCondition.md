@@ -1,6 +1,9 @@
 ## LLL Tag Condition
 Checks if the current moon/dungeon has a specific tag. Requires [LethalLevelLoader](https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/).
 
+> [!WARNING]
+> Tags in LethalLevelLoader are currently case-sensitive
+
 ### Properties
 | Name | Type | Default |
 |--------|-------|---------|

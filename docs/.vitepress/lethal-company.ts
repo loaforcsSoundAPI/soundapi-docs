@@ -28,6 +28,7 @@ export const lethalCompanyConditions = {
             ]
         },
         { text: 'LLL Has Tag', link: '/games/lethal-company/conditions/LLLTagCondition' },
+        { text: 'DawnLib Has Tag', link: '/games/lethal-company/conditions/DawnLibTagCondition' },
         { text: 'Ship State', link: '/games/lethal-company/conditions/ShipStateCondition' },
     ]
 }
